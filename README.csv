@@ -1,8 +1,8 @@
-BeazleyNumber,MuseumID,shape,findspot,comments
-37,Palermo V 747,N/A,N/A,None
-38,Dresden 315,N/A,N/A,None
-39,Syracus 19859,N/A,Gela,None
-40,Paris Petit Palais 324,N/A,N/A,None
+BeazleyNumber,MuseumID,shape,findspot,comments,catalogued spot
+37,Palermo V 747,Amphora,N/A,RF(213858) Youth Departing/Woman/Draped Man with Staff,None
+38,Dresden 315,N/A,N/A,None,None
+39,Syracus 19859,N/A,Gela,None,462215
+40,Paris Petit Palais 324,N/A,N/A,None,None
 41,Munich 2329,N/A,South Italy,None
 42,Stuttgart V 138,N/A,N/A,None
 43,Leningrad 710,N/A,N/A,None
