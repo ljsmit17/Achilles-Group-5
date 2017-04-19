@@ -1,28 +1,28 @@
-BeazleyNumber,MuseumID,shape,findspot,comments,catalogued spot
-37,Palermo V 747,Amphora,N/A,RF(213858) Youth Departing/Woman/Draped Man with Staff,None
-38,Dresden 315,N/A,N/A,None,None
-39,Syracus 19859,N/A,Gela,None,462215
-40,Paris Petit Palais 324,N/A,N/A,None,None
-41,Munich 2329,N/A,South Italy,None
-42,Stuttgart V 138,N/A,N/A,None
-43,Leningrad 710,N/A,N/A,None
-44,Madrid inv. 32670,N/A,N/A,None
-45,Philadelphia 30.4.1,N/A,N/A,None
-46,Athens,N/A,N/A,None
-47,Copenhaen Phs R.I 37.434,N/A,N/A,None
-48,Stockhold inv. 24,N/A,N/A,None
-49,Berlin 2355,N/A,N/A,None
-50,London E 385,N/A,N/A,None
-51,New York pl. 86.284,N/A,N/A,None
-52,Louvre C 11004,N/A,N/A,None
-53,Ferrar T. 1052,N/A,Spina,None
-54,Chicago Univ AJA 1938 355 fig 22,N/A,N/A,None
-55,London E 463,N/A,N/A,None
+BeazleyNumber,MuseumID,shape,findspot,comments(Vase Number),catalogued spot
+37,Palermo V 747,Amphora,N/A,RF(213858),None
+38,Dresden 315,Amphora,N/A,RF(213859),None
+39,Syracus 19859,Amphora,Gela Sicily,None,462215
+40,Paris Petit Palais 324,Amphora,N/A,RF(213861),None
+41,Munich 2329,Amphora,South Italy,RF(213862)(Catalogued as Rome),423025
+42,Stuttgart V 138,Amphora,N/A,RF(213863),N/A
+43,St. Petersburg 710,Amphora,N/A,RF(213864) Draped Youth,N/A
+44,Madrid inv. 32670,Amphora,N/A,RF(213865),N/A
+45,Philadelphia 30.4.1,Loutrophoros,N/A,RF(212260),N/A
+46,Athens,N/A,N/A,None,N/A
+47,Copenhagen Phs R.I 37.434,N/A,N/A,None,N/A
+48,Stockholm inv. 24,Pelike,N/A,RF(213869),N/A
+49,Berlin 2355,Pelike,N/A,RF(213870),N/A
+50,London E 385,Pelike,N/A,RF(213871),N/A
+51,New York pl. 86.284,N/A,N/A,None,N/A
+52,Louvre C 11004,Pelike Fragments,N/A,RF(213873),N/A
+53,Ferrar T. 1052,Krater,Spina,RF(213874),393498
+54,Chicago Univ AJA 1938 355 fig 22,N/A,N/A,None,N/A
+55,London E 463,Krater,N/A,RF(213876),N/A
 56,Athens 1717 (CC. 1343),N/A,N/A,None
-57,Leningard 767,N/A,N/A,None
-58,Oxford 1914.730,N/A,N/A,None
-59,Boston 03.817,N/A,Suessula,None
-60,Orvieto Faina 165,N/A,N/A,None
-61,New York 07.286.81,N/A,N/A,None
-62,Bologna 323,N/A,Bologna,None
-63,Villa Giulia 25007,N/A,N/A,None
+57,Leningard 767,Krater,N/A,RF(213877),N/A
+58,Oxford 1914.730,Krater,N/A,RF(213879),N/A
+59,Boston 03.817,Krater,Suessula,RF(213880),433133
+60,Orvieto Faina 165,Krater,N/A,RF(213881),N/A
+61,New York 07.286.81,Krater,N/A,RF(213882),N/A
+62,Bologna 323,Krater,Bologna,RF(213883),393421
+63,Rome.Villa Giulia 25007,Krater,N/A,RF(213884),N/A
